@@ -1,0 +1,7 @@
+### installation
+node.js  (check version node -v)
+npm install -g typescript
+npm install -g node
+
+### run tsserver
+tsc -W  (in the folder where is tsconfig)
